@@ -14,23 +14,23 @@ You can find these values within your MonetizeGame control panel after creating 
 
 # STEP 3:
 Right-click Object types in the 'Projects' tab, select Insert New Object and select 'MonetizeGame' in the 'Monetization' category.
-<p><img src="https://monetizegame.com/images/construct2/step.png"  width="800" alt=""></p>
+<p><img src="https://monetizegame.com/images/construct2/3.png"  width="800" alt=""></p>
 
 # STEP 4:
 Click 'MonetizeGame' and insert your GameId in from your account on game
-<p><img src="https://monetizegame.com/images/construct2/step_1.png"  width="800" alt=""></p>
+<p><img src="https://monetizegame.com/images/construct2/4.png"  width="800" alt=""></p>
 
 # STEP 5:
 Double click the GRAY area to create an event to be tied with an advertisement request. You can also tie the following steps to an existing event in your game flow.
-<p><img src="https://monetizegame.com/images/construct2/step3.png"  width="800" alt=""></p>
+<p><img src="https://monetizegame.com/images/construct2/5.png"  width="800" alt=""></p>
 
 # STEP 6:
 Choose 'Init SDK' as an action to tie to an event in your game flow.
-<p><img src="https://monetizegame.com/images/construct2/step3_1.png"  width="800" alt=""></p>
+<p><img src="https://monetizegame.com/images/construct2/6.png"  width="800" alt=""></p>
 
 # STEP 7:
 You can now call the 'Show Banner' action - whenever and as often as you want. We will make sure to reject any premature calls.
-<p><img src="https://monetizegame.com/images/construct2/step3_2.png"  width="800" alt=""></p>
+<p><img src="https://monetizegame.com/images/construct2/7.png"  width="800" alt=""></p>
 
 # TIPS - Pause/Resume events
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
