@@ -36,7 +36,7 @@ Choose 'Init SDK' as an action to tie to an event in your game flow.
 You can now call the 'Show Banner' action - whenever and as often as you want. We will make sure to reject any premature calls.
 <p><img src="https://gamemonetize.com/images/construct/construct5.png"  width="800" alt=""></p>
 
-# TIPS - Pause/Resume events
+# TIP: Pause/Resume events
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
 
 # FAQ
