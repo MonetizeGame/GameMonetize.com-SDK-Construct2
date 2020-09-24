@@ -1,11 +1,12 @@
 <img src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4">  &nbsp;&nbsp;
 <img src="https://gamemonetize.com/images/construct2logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/construct2logo.png">
 
-For Construct 3, please visit:
-https://github.com/MonetizeGame/GameMonetize.com-SDK-Construct3
-
 # GameMonetize.com-SDK Construct 2
 This repository contains the GameMonetize.com SDK for HTML5 Construct 2 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
+
+
+For Construct 3, please visit:</br>
+https://github.com/MonetizeGame/GameMonetize.com-SDK-Construct3
 
 # STEP 1:
 <a href="https://drive.google.com/file/d/13l-YeEqS733TK48aQR193BCDe9-4fS2V/">Download the plugin</a> and extract the file to C:\Program Files\Construct 2\exporters\html5\plugins
