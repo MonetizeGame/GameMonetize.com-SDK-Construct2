@@ -6,7 +6,7 @@ This repository contains the GameMonetize.com SDK for HTML5 Construct 2 games. T
 
 
 <b>For Construct 3, please visit:</b></br>
-https://github.com/MonetizeGame/GameMonetize.com-SDK-Construct3
+<a href="https://drive.google.com/file/d/1qwhm5drPwjzdWMc01qH-NQzTJmINGudG/">Download the plugin</a> or visit <a href="https://www.construct.net/en/make-games/addons/448/gamemonetize-com-sdk">Construct 3 Addons here</a>
 
 # STEP 1:
 <a href="https://drive.google.com/file/d/13l-YeEqS733TK48aQR193BCDe9-4fS2V/">Download the plugin</a> and extract the file to C:\Program Files\Construct 2\exporters\html5\plugins
